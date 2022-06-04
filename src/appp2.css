@@ -1,0 +1,36 @@
+li{
+    list-style: none;
+    width: 40%;
+    margin: auto;
+    padding: 4px;
+}
+button{
+    border: none;
+    width: 100%;
+    border-radius: 6px;
+    padding: 5px;
+
+}
+.slt:focus{
+    background-color: #c6fdee;
+    
+}
+.head{
+    color: white;
+}
+h5{
+    color: white;
+}
+h3{
+    color: white;
+}
+@media screen and (min-width: 375px) and (max-width: 415px) {
+    li{
+      width: 330px;
+      margin: auto;
+    }
+    h3{
+        font-size: 16px;
+        font-weight: bold;
+    }
+  }

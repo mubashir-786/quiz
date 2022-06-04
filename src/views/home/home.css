@@ -1,0 +1,57 @@
+img{
+    width: 40px;
+    margin-right: 9px;
+    position: relative;
+    right: 50px;
+    top: 5px;
+}
+.name {
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    position: relative;
+    right: 55px;
+}
+.head{
+    width: 100%;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.inIm{
+    width: 20px;
+    /* margin-right: 9px; */
+    position: relative;
+    /* right: 50px; */
+    top: -2px;
+    left: 9px;
+}
+.fon{
+    font-size: 16px;
+}
+.time{
+    display: inline-block;
+    font-size: 10px;
+   
+    position: relative;
+    top: 14px;
+    
+    right: 153px;
+}
+.diss{
+    font-size: 17px;
+    position: relative;
+    right: 61px;
+    top: 8px;
+}
+.post{
+    border: 1px solid black;
+    width: 350px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: white;
+}
+body{
+    background-color: #F0F2F5;
+}

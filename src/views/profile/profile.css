@@ -1,0 +1,36 @@
+ .profileImg  {
+     width: 100%;
+    margin-right: 9px;
+    /* position: relative; */
+    /* right: 50px; */
+    /* top: 5px; */
+    height: 167px;
+    margin: auto;
+    text-align: center;
+}
+.main{
+    width: 80%;
+    margin: auto;
+}
+.pos{
+    font-size: 17px;
+    position: relative;
+    bottom: 174px;
+    /* left: 2px; */
+    right: 155px;
+}
+.profilee{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    border-radius: 50%;
+    top: -15px;
+    /* left: 2px; */
+    right: 280px;
+}
+.namee{
+    position: relative;
+    bottom: 155px;
+    font-weight: 550;
+    right: 69px;
+}
